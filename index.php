@@ -22,7 +22,7 @@ ini_set('display_startup_errors', 1);
     </div>
     <h1>Задание 3</h1>
     <div class="row">
-      <?php include_once("prime_num_sum.php"); ?>
+      <?php include_once("mega_sum.php"); ?>
     </div>
   </div>
 </body>
